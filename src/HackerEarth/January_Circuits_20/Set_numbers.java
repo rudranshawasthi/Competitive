@@ -1,5 +1,7 @@
 package HackerEarth.January_Circuits_20;
-
+/*
+                                    Author : Rudransh Awasthi
+ */
 /*
 Set numbers
 Max. Marks: 100
