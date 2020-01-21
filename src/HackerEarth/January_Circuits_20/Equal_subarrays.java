@@ -93,16 +93,6 @@ public class Equal_subarrays {
             System.out.println(mi);
     }
 }
-//    public static void main(String ae[]){
-//        Scanner z = new Scanner(System.in);
-//        int n = z.nextInt();
-//        int k = z.nextInt();
-//        int i;
-//        int[] arr = new int[n];
-//        for (i = 0;i < n; i++){
-//            arr[i] = z.nextInt();
-//        }
-
 
 
 
